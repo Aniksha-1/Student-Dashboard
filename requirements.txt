@@ -1,4 +1,4 @@
-https://acrobat.adobe.com/id/urn:aaid:sc:AP:ee1223a0-afb6-45fd-b6e6-f7fbf4ed9ba2
+
 streamlit
 pandas
 plotly
